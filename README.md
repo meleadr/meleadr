@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meledina.adriano@gmail.com**
 
-- ⚡ Fun fact **Miata lover**
+- ⚡ Fun fact I'm a **Miata lover**
 
 <p align="center"><img  src="miata.png" alt="Miata" width="200"/></p>
 
