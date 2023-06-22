@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meleadr&label=Profile%20views&color=0e75b6&style=flat" alt="meleadr" /> </p>
 
-- 🔭 I’m currently working on [MyClinic.care](https://myclinic.care/en/)
+- 🔭 I’m currently working on [MyClinic.care](https://myclinic.care/en/) && [Advelox](https://www.advelox.com/). Using **Vue3 && Laravel**
 
-- 🌱 I’m currently learning **Vue3 && Laravel**
+- 🌱 I’m currently learning **JS Frameworks**
 
 - 👨‍💻 All of my projects are available at [meleadr.github.io/](meleadr.github.io/)
 
