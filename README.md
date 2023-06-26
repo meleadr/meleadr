@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS Frameworks**
 
-- 👨‍💻 All of my projects are available at [meleadr.github.io/](meleadr.github.io/)
+- 👨‍💻 My resume is available here [meleadr](https://flowcv.me/meleadr)
 
 - 📫 How to reach me **meledina.adriano@gmail.com**
 
