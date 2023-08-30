@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meleadr&label=Profile%20views&color=0e75b6&style=flat" alt="meleadr" /> </p>
 
-- 🔭 I’m currently working on [MyClinic.care](https://myclinic.care/en/) && [Advelox](https://www.advelox.com/). Using **Vue3/Laravel**
+- 🔭 I’m currently working on [ServerManagement](https://github.com/meleadr/ng-server-spring).
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** && **Angular**
 
 - 👨‍💻 My resume is available here [meleadr](https://flowcv.me/meleadr)
 
