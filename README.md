@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adriano</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer @ NSI Software & Services</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meleadr&label=Profile%20views&color=0e75b6&style=flat" alt="meleadr" /> </p>
 
-- 🔭 I’m currently working on [ServerManagement](https://github.com/meleadr/ng-server-spring).
+- 🔭 I’m currently working on [?](https://).
 
-- 🌱 I’m currently learning **Spring** && **Angular**
+- 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 My resume is available here [meleadr](https://flowcv.me/meleadr)
 
