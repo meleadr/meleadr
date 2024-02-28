@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [?](https://).
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **GIS** & **Spring Security**
 
 - 👨‍💻 My resume is available here [meleadr](https://flowcv.me/meleadr)
 
